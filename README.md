@@ -16,5 +16,5 @@ sudo su
 cd /opt && git clone https://github.com/mekomsolutions/node-exporter-docker-compose
 ```
 ```bash
-cd node-exporter-docker-compose && docker compose up -d
+cd node-exporter-docker-compose && docker-compose up -d
 ```
